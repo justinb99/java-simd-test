@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/*
+*.iml
+
+target/*
+
+*/target/*
+
+logs
+
+.DS_Store
